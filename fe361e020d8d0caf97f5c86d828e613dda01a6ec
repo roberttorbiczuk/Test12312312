@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "919b8cdd_89d5ffd2",
+        "filename": "10test.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1018580
+      },
+      "writtenOn": "2020-11-12T12:02:35Z",
+      "side": 1,
+      "message": "co to za linia",
+      "revId": "fe361e020d8d0caf97f5c86d828e613dda01a6ec",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3bec87d5_09cb9df9",
+        "filename": "10test.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1018580
+      },
+      "writtenOn": "2020-11-12T12:02:35Z",
+      "side": 1,
+      "message": "tu jest blad",
+      "revId": "fe361e020d8d0caf97f5c86d828e613dda01a6ec",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
