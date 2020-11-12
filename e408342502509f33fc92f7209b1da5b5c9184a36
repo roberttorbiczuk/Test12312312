@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "de9725d6_9a38c545",
+        "filename": "1test.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1018580
+      },
+      "writtenOn": "2020-11-12T10:48:47Z",
+      "side": 1,
+      "message": "Testowy comment",
+      "revId": "e408342502509f33fc92f7209b1da5b5c9184a36",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
